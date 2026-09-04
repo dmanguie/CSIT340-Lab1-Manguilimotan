@@ -51,7 +51,7 @@ function App() {
 
       <section className="max-w-2xl mx-auto px-6 pb-16">
         <hr className="mb-6 border-slate-200" />
-        <p className="text-sm text-slate-500">Made for CSIT340.</p>
+        <p className="text-sm text-slate-500">Made by Dan for CSIT340.</p>
       </section>
     </>
   )
